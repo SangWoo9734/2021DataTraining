@@ -17,7 +17,7 @@
 ----- **02-05** -----  
 - 스터디 결과 보고  
 
-## 강의 링크
+## 강의 링크👩‍💻
 - [파이썬 입문과 크롤링 기초 부트캠프](https://inf.run/jVu2) - teamlab.research  
 - [SQL/DB(MySQL) 기본부터 파이썬/데이터 분석 활용까지](https://inf.run/YZkQ) - teamlab.project1  
 - [Pandas 팬더스 데이터분석 기초 실습](https://inf.run/4Doj) - teamlab.project1  
@@ -26,5 +26,5 @@
 - [파이썬 머신러닝 완벽 가이드](https://inf.run/6eDo) - teamlab.research
   - 📚[파이썬 머신러닝 완벽 가이드](http://aladin.kr/p/922yA) - 은빈
 - [R로 배우는 통계](https://inf.run/iw6x) - teamlab.gachon
-  - [데이터 과학을 위한 통계](http://aladin.kr/p/pLw9M) - 은빈
-  - [파이썬으로 배우는 통계학 교과서](http://aladin.kr/p/j2vLm) - 은빈
+  - 📚[데이터 과학을 위한 통계](http://aladin.kr/p/pLw9M) - 은빈
+  - 📚[파이썬으로 배우는 통계학 교과서](http://aladin.kr/p/j2vLm) - 은빈
