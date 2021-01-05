@@ -1,7 +1,7 @@
 # 2021DataTraining
----
 ### 팀원
-🙈 [박상우](https://github.com/SangWoo9734)  
+🙈 [박상우](https://github.com/SangWoo9734)
+
 👾 [박은빈](https://github.com/42cosmos)
 
 ### 일정
